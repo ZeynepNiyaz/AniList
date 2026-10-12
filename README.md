@@ -1,17 +1,33 @@
-# my_app
+# AniList 📱
 
-A new Flutter project.
+A lightweight mobile tracking application built with Flutter to organize, log, and manage your anime, manga, and manhwa watch/read lists locally.
 
-## Getting Started
+> 📅 **Development Date:** July 11, 2024 *(Restored and archived from local backups)*
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- **Categorized Content:** Dedicated watch/read lists for Anime, Manga, and Manhwa.
+- **Status Tracking:** Organize entries by status (Plan to Watch/Read, Watching/Reading, Completed, Dropped).
+- **Custom Notes:** Add, edit, and keep personal notes for each entry.
+- **Offline & Persistent Storage:** Saves all lists locally using `shared_preferences`, keeping data accessible without an internet connection.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** [Flutter](https://flutter.dev/)
+- **Language:** [Dart](https://dart.dev/)
+
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/AniList.git](https://github.com/your-username/AniList.git)
+   cd AniList
